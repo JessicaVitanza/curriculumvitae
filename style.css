@@ -1,4 +1,4 @@
-body { background-color: rgba(0, 0, 0, 0.884);
+body { background-color:#141414;
     text-align: center;
         margin: 0px;
         padding: 0px;
@@ -25,7 +25,7 @@ body { background-color: rgba(0, 0, 0, 0.884);
 
 .su-di-me {
     text-align: center;
-    color: white;
+    color: rgb(147, 1, 1);
 }
 
 .biografia {
@@ -43,3 +43,41 @@ body { background-color: rgba(0, 0, 0, 0.884);
      color: rgba(172, 92, 92, 0.301);
      font-size: smaller;
  }
+
+ .formazione {
+     color: white;
+     background-color: #141414;
+     border-style:solid;
+     border-color: rgba(165, 32, 32, 0.505);
+     border-radius: 30px;
+     padding: 5px;
+ }
+
+ .esperienzelavorative {
+     color: white;
+     background-color: #141414;
+     border-style:solid;
+     border-color: rgba(165, 32, 32, 0.505);
+     border-radius: 30px;
+     padding: 5px;
+ }
+
+ .altro {
+     color: white;
+     background-color: #141414;
+     border-style:solid;
+     border-color: rgba(165, 32, 32, 0.505);
+     border-radius: 30px;
+     padding: 5px;
+ }
+
+ .contatti {
+     color: white;
+     background-color: #141414;
+     border-style:solid;
+     border-color: rgba(165, 32, 32, 0.505);
+     border-radius: 30px;
+     padding: 5px;
+ }
+
+ 
