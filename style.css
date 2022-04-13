@@ -1,4 +1,5 @@
 body { background-color: rgba(0, 0, 0, 0.884);
+    text-align: center;
         margin: 0px;
         padding: 0px;
         height: 100%;
@@ -26,6 +27,7 @@ body { background-color: rgba(0, 0, 0, 0.884);
 }
 
 .biografia {
+    color: blanchedalmond;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
 }
@@ -36,13 +38,12 @@ body { background-color: rgba(0, 0, 0, 0.884);
 }
 
 .privacy {
-    color: rgb(255, 0, 0);
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
-.testo-privacy {
     color: rgb(0, 0, 0);
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: grey;
+
 }
+ .footer-text {
+     margin-bottom: 0px;
+ }
