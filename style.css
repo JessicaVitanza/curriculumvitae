@@ -4,46 +4,42 @@ body { background-color: rgba(0, 0, 0, 0.884);
         padding: 0px;
         height: 100%;
         width: 100%;
+        font-family: 'Plus Jakarta Sans', sans-serif;
     }
     
 
 .jessica-vitanza {
-    color: rgb(255, 255, 255);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(147, 1, 1);
     font-style: oblique;
-    background-color: rgba(125, 3, 3, 0.901);
     text-align: center;
+    
 }
 
 .sport-design {
-    color: red;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 255, 255);
     text-align: center;
+    background-color: rgba(165, 32, 32, 0.505);
+    height: 30px;
+    padding: 15px;
 }
 
 .su-di-me {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
+    color: white;
 }
 
 .biografia {
-    color: blanchedalmond;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
-.menu {
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
 
 .privacy {
-    color: rgb(0, 0, 0);
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-color: grey;
-
+    color: rgba(172, 92, 92, 0.301);
+    font-size: small;
 }
  .footer-text {
      margin-bottom: 0px;
+     color: rgba(172, 92, 92, 0.301);
+     font-size: smaller;
  }
