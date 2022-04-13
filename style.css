@@ -1,8 +1,16 @@
+body { background-color: rgba(0, 0, 0, 0.884);
+        margin: 0px;
+        padding: 0px;
+        height: 100%;
+        width: 100%;
+    }
+    
+
 .jessica-vitanza {
     color: rgb(255, 255, 255);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: oblique;
-    background-color: rgba(0, 0, 0, 0.901);
+    background-color: rgba(125, 3, 3, 0.901);
     text-align: center;
 }
 
@@ -28,13 +36,13 @@
 }
 
 .privacy {
-    color: rgb(246, 65, 65);
+    color: rgb(255, 0, 0);
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .testo-privacy {
-    color: rgb(55, 55, 55);
+    color: rgb(0, 0, 0);
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
